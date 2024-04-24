@@ -4,7 +4,7 @@
   "description": "testing gcp's vault of secrets",
   "main": "index.js",
   "scripts": {
-    "test": "npm tes"
+    "test": "npm test"
   },
   "repository": {
     "type": "git",
