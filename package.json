@@ -1,0 +1,26 @@
+{
+  "name": "vault-of-secrets",
+  "version": "1.0.0",
+  "description": "testing gcp's vault of secrets",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm tes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jufegare000/dojo-vault-of-secrets.git"
+  },
+  "keywords": [
+    "gcp",
+    "vault",
+    "of",
+    "secrets",
+    "dojo"
+  ],
+  "author": "jufegare000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jufegare000/dojo-vault-of-secrets/issues"
+  },
+  "homepage": "https://github.com/jufegare000/dojo-vault-of-secrets#readme"
+}
